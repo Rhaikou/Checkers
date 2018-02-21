@@ -1,0 +1,54 @@
+body {
+	background-color: cyan;
+}
+
+table {
+	border-collapse: collapse;
+	float: left;
+}
+
+.sq-black {
+	background-color: black;
+}
+
+.sq-white {
+	background-color: white;
+}
+
+.square {
+	margin: 0;
+	padding: 0;
+}
+
+form {
+	display: inline-block;
+	float: left;
+}
+
+#main-set {
+	display: inline-block;
+	float: left;
+}
+
+#luo {
+}
+
+fieldset p {
+}
+
+#error-field {
+	background-color: red;
+	color: white;
+	padding: 5px;
+}
+
+#piece-count-form {
+	clear: both;
+}
+
+.piece {
+	margin: 0;
+	padding: 0;
+	display:block;
+}
+
